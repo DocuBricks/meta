@@ -1,6 +1,8 @@
-## This is is a folder containing Open Know How (OKH) Manifests, aimed to make Open Source Hardware discoverable online
-# OKH Manifests aim to 
-# The manifest V1.0 follow the following template, which is encoded in the language YAML as it is:
+# This is is a folder containing Open Know How (OKH) Manifests, aimed to make Open Source Hardware discoverable online
+
+## OKH Manifests aim to 
+## The manifest V1.0 follow the following template, which is encoded in the language YAML as it is:
+
 
 %Open know-how manifest 0.1
 ---
